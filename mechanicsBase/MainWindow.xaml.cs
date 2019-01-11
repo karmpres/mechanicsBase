@@ -18,6 +18,7 @@ namespace mechanicsBase
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// Interaction
     public partial class MainWindow : Window
     {
         public MainWindow()
